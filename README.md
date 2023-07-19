@@ -1,2 +1,3 @@
 # MyCodingJourney
-I have started this coding preparation journey on 19-06-2023
+Data Structure & Algorithm the fun part of my life
+
